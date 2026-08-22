@@ -1,7 +1,7 @@
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Created by jt on 2018-11-26.
+ * Created by jt.
  */
 public class HelloWorld {
 
